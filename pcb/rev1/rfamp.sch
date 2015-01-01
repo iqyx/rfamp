@@ -9762,16 +9762,16 @@ Source: www.kingbright.com</description>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0603" value="NP"/>
 <part name="L1" library="rcl" deviceset="L-US" device="L2012C" value="9nH"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="1K3"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="1K2"/>
 <part name="L2" library="rcl" deviceset="L-US" device="L2012C" value="12nH"/>
 <part name="C2" library="rcl" deviceset="C-EU" device="C0603" value="100nF"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
-<part name="IC1" library="v-reg" deviceset="TS5205" device="" technology="30"/>
-<part name="C3" library="rcl" deviceset="C-EU" device="C0603" value="100nF"/>
-<part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="100nF"/>
-<part name="C5" library="rcl" deviceset="C-EU" device="C0805" value="100nF"/>
+<part name="IC1" library="v-reg" deviceset="TS5205" device="" technology="30" value="NCP700BSN-30"/>
+<part name="C3" library="rcl" deviceset="C-EU" device="C0603" value="22nF"/>
+<part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="4.7uF"/>
+<part name="C5" library="rcl" deviceset="C-EU" device="C0805" value="4.7uF"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
@@ -9780,7 +9780,7 @@ Source: www.kingbright.com</description>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="IC2" library="qyx-misc" deviceset="ADL5523" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="R0603" value="1K3"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="R0603" value="390R"/>
 <part name="POWER" library="led" deviceset="LED" device="CHIPLED_0603"/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 <part name="J$1" library="SparkFun" deviceset="SMA_EDGE" device=""/>
